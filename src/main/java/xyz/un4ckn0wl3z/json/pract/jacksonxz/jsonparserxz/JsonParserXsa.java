@@ -1,4 +1,4 @@
-package xyz.un4ckn0wl3z.json.pract.jsonparserxz;
+package xyz.un4ckn0wl3z.json.pract.jacksonxz.jsonparserxz;
 
 import java.io.IOException;
 
