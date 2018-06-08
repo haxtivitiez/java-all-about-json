@@ -103,6 +103,8 @@ public class ObjectMapperEx {
 		    	
 		    }
 		    
+		    System.out.println(objectMapper.writeValueAsString(jsonMap));
+		    
 		    
 		    
 		    
